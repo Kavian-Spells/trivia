@@ -3,10 +3,14 @@ jQuery Trivia Game
 
 Using jQuery and the The Open Trivia Database API (https://opentdb.com/) create a trivia game. It must meet the following requirements:
 
-Uses jQuery <br>
-Uses the Open Trivia Database API
-Incorporates at least one jQuery Plugin
-Support two players where each player gets X number of questions and then is scored. The winner is the player with the highest score.
+<ul> 
+<li>Uses jQuery </li>
+<li>Uses the Open Trivia Database API</li>
+<li>Incorporates at least one jQuery Plugin</li>
+<li>Support two players where each player gets X number of questions and then is scored. </li>
+<li>The winner is the player with the highest score</li>
+</ul>
+
 Incorporate Classes for the following with suggested methods and attributes:
 Game
 game.start()
