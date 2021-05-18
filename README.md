@@ -12,7 +12,7 @@ Using jQuery and the The Open Trivia Database API (https://opentdb.com/) create 
 
 Incorporate Classes for the following with suggested methods and attributes:
 <ul>
-  <ll>Game</li>
+  <li>Game</li>
     <ul>
     <li>game.start()</li>
     <li>game.players</li>
